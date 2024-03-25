@@ -10,6 +10,9 @@ import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
+/**
+ * This is a transformer class that helps with transforming web data to required format
+ */
 public class RegulationsTransformer {
 
     /**

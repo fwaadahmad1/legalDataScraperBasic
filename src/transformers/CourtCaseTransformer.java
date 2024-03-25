@@ -13,6 +13,9 @@ import javax.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This is a transformer class that helps with transforming web data to required format
+ */
 public class CourtCaseTransformer {
     /**
      * This class should not be instantiated as all methods are supposed to be static

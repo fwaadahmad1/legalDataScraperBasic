@@ -10,6 +10,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
+/**
+ * This is a transformer class that helps with transforming data to json format and write it.
+ */
 public class ObjToJsonTransformer {
     /**
      * This method converts a list of objects to JSON string
